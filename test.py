@@ -7,6 +7,8 @@
 ### CMS 230 automated testing program, ver. 1.0
 ### DSM, 2017
 
+### Code written by Dr. Dan Myers
+
 from os import system
 from os import listdir
 import sys
