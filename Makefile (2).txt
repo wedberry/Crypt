@@ -1,0 +1,6 @@
+all:
+	gcc -o crack crack.c -lcrypt -Wall -Werror
+	gcc -o example example.c -lcrypt
+	
+clean:
+	rm crack example
