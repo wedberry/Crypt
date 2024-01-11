@@ -141,8 +141,6 @@ int main(int argc, char *argv[]) {
   }
 
   //printf("%d %d %s %s\n", c, n, dictionary, output);
-
-  //*** You do the rest ***//
   
    // Open the files
   FILE *f = fopen(input, "r");
